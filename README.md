@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AzureUser4/TestingKH/_apis/build/status/KatHewitt.pipelines-java?branchName=master)](https://dev.azure.com/AzureUser4/TestingKH/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
